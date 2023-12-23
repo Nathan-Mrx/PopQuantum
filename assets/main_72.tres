@@ -1,0 +1,11 @@
+[gd_resource type="LabelSettings" load_steps=2 format=3 uid="uid://bf0qia5q1wkre"]
+
+[ext_resource type="FontFile" uid="uid://c4qj37neywy38" path="res://assets/fonts/Exo-Regular.ttf" id="1_i4jnd"]
+
+[resource]
+font = ExtResource("1_i4jnd")
+font_size = 72
+outline_size = 6
+outline_color = Color(0.113725, 0.113725, 0.113725, 1)
+shadow_size = 4
+shadow_color = Color(0.282353, 0.282353, 0.282353, 0)
